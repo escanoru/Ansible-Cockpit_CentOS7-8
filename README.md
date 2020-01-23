@@ -1,0 +1,1 @@
+# cockpit_CentOS7.yaml
